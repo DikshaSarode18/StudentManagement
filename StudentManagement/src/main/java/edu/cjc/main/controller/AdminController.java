@@ -20,5 +20,5 @@ public class AdminController {
 			return "login";
 		}
 	}
-
+syy
 }
